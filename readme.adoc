@@ -1,6 +1,6 @@
 image:https://github.com/HOME-programming-lab/kickstart/actions/workflows/maven.yml/badge.svg["CI Build", link="https://github.com/HOME-programming-lab/kickstart/actions"]
 
-= Kickstart (hier sollte Ihr Projektname stehen)
+= Kickstart (Fitnessstudio)
 
 Dies ist das initiale Template für alle Software-Projekte die Java, Salespoint und Sprint verwenden.
 
